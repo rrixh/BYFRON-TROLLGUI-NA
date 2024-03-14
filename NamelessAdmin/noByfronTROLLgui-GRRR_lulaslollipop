@@ -21,9 +21,9 @@
  local Notify = Notification.Notify;
 
  Notify({
-		 Description = "NO BYFRON TROLL GUI\nBUT THEM NIGGAZ TRIED";
-		 Title = "NA";
-		 Duration = 5;
+		 Description = "NO BYFRON TROLL GUI KAUSE I FIXED\nIT BUT THEM NIGGAZ TRIED🖕🏽";
+		 Title = "🖕🏽BYFRON TROLL GUI🖕🏽";
+		 Duration = 7;
 		 
 });
  
